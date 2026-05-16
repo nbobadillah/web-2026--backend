@@ -1,0 +1,4 @@
+data/*.json
+!data/.gitkeep
+.env
+.DS_Store
